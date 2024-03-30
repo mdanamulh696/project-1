@@ -1,3 +1,5 @@
+// Author Md Anamul Haque
+
 #include<iostream>
 #include<string>
 using namespace std;
